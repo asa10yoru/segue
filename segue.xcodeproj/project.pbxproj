@@ -12,6 +12,7 @@
 		33F5C5731E6AA166006345CC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 33F5C5711E6AA166006345CC /* Main.storyboard */; };
 		33F5C5751E6AA166006345CC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 33F5C5741E6AA166006345CC /* Assets.xcassets */; };
 		33F5C5781E6AA166006345CC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 33F5C5761E6AA166006345CC /* LaunchScreen.storyboard */; };
+		33F5C5801E6AA2CA006345CC /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33F5C57F1E6AA2CA006345CC /* ResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		33F5C5741E6AA166006345CC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		33F5C5771E6AA166006345CC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		33F5C5791E6AA166006345CC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		33F5C57F1E6AA2CA006345CC /* ResultViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				33F5C56D1E6AA166006345CC /* AppDelegate.swift */,
 				33F5C56F1E6AA166006345CC /* ViewController.swift */,
 				33F5C5711E6AA166006345CC /* Main.storyboard */,
+				33F5C57F1E6AA2CA006345CC /* ResultViewController.swift */,
 				33F5C5741E6AA166006345CC /* Assets.xcassets */,
 				33F5C5761E6AA166006345CC /* LaunchScreen.storyboard */,
 				33F5C5791E6AA166006345CC /* Info.plist */,
@@ -137,6 +140,7 @@
 			files = (
 				33F5C5701E6AA166006345CC /* ViewController.swift in Sources */,
 				33F5C56E1E6AA166006345CC /* AppDelegate.swift in Sources */,
+				33F5C5801E6AA2CA006345CC /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
